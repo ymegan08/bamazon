@@ -10,3 +10,6 @@ Amazon-like storefront with mySQL that takes in orders from customers and deplet
 4) If the store does have enough of the product, app fulfill the customer's order
   a) SQL database will update to reflect the remaining quantity
 5) Once the update goes through, shows the customer the total cost of their purchase
+
+## Demo of Command Line
+![Demo](/demo/demo.gif)
